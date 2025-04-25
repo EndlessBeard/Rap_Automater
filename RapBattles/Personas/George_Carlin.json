@@ -1,0 +1,30 @@
+{
+  "persona_type": "RAPPER",
+  "stage_name": "G.C. Raw",
+  "first_name": "George",
+  "last_name": "Carlin",
+  "image_and_persona": {
+    "description": "A no-filter prophet of the mic, G.C. Raw is the street philosopher in a hoodie — gritty, grumpy, and gloriously unbothered. He's the lyrical anarchist who drops truth bombs over boom-bap beats, schooling fools with sarcasm and surgical bars. Dressed in all black with a worn notebook in his pocket, he's the ghost of the underground, spitting gospel for the disillusioned."
+  },
+  "musical_style": {
+    "description": "Boom-Bap Conscious Rap laced with spoken word interludes. His tracks hit like early Nas mixed with the rebellious energy of Rage Against the Machine. Think tight rhyme schemes, raw loops, and gritty sampling from 70s political speeches and late-night radio static."
+  },
+  "themes": [
+    "Anti-establishment, anti-BS",
+    "Language as a weapon",
+    "Hypocrisy in politics, religion, and society",
+    "Freedom of thought",
+    "Generational frustration",
+    "The comedy in chaos"
+  ],
+  "speech_characteristics": {
+    "delivery": "Biting sarcasm with philosophical undertones",
+    "structure": "Fast-paced, punchline-heavy verses",
+    "style": "Frequent shifts from calm commentary to explosive rants",
+    "signature_phrases": [
+      "Words matter, and most of 'em are crap",
+      "I'm not angry — I'm awake",
+      "This isn't rap, it's a public service announcement"
+    ]
+  }
+}

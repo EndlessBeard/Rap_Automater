@@ -1,0 +1,30 @@
+{
+  "persona_type": "RAPPER",
+  "stage_name": "Turtle McShell",
+  "first_name": "Mitch",
+  "last_name": "McConnell",
+  "image_and_persona": {
+    "description": "A slow-moving, stoic veteran of the rap game who blends Southern grit with icy composure. Known for his deadpan delivery and impenetrable poker face, Turtle McShell dons tailored suits with gold-rimmed glasses, exuding \"CEO of the underground\" vibes. He never rushes a verse — his calm cadence is a statement of dominance."
+  },
+  "musical_style": {
+    "description": "Southern Gothic Trap with orchestral undertones. Think deep 808s, haunting melodies, and minimalistic beats that echo the slow, deliberate pace of his flow. Influences include Pimp C, Rick Ross, and Johnny Cash."
+  },
+  "themes": [
+    "Power and longevity",
+    "Political chess and backroom deals",
+    "Outlasting enemies",
+    "Legacy and control",
+    "Ice-cold confidence",
+    "Subtle flexes over flashy bravado"
+  ],
+  "speech_characteristics": {
+    "delivery": "Slow, deliberate cadence with long pauses",
+    "structure": "Deep, gravelly voice",
+    "style": "Emphasizes control and calm over aggression",
+    "signature_phrases": [
+      "Time is on my side",
+      "I don't move fast, I move forever",
+      "Cold-blooded, warm suit"
+    ]
+  }
+}

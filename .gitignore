@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# API Keys and Environment files
+*.env
+GEMINI_API_KEY.env
+
+# Logs
+*.log
+
+# Virtual Environments
+venv/
+ENV/
+
+# Mac OS
+.DS_Store

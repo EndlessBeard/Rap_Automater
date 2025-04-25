@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Reckoner",
+    "artist": "Unknown",
+    "genre": "Electronic, Ambient, Trip-Hop, Dream Pop",
+    "style": "Features atmospheric synths, a steady electronic beat, and ethereal vocals",
+    "tempo": "Moderately slow tempo (estimated around 80-90 BPM)",
+    "rhythm": "Consistent, somewhat minimalist electronic drum pattern (kick, clap/snare, hi-hats)",
+    "instruments": "Synthesizers (ambient pads, subtle melodic textures), electronic drums, subtle synth bassline, processed female vocals",
+    "arrangement": "Starts sparsely with atmospheric synths, introduces the beat and bass, then layers vocals and more complex synth textures, building to a moderate climax before receding in the outro",
+    "mood": "Ethereal, contemplative, dreamy, atmospheric",
+    "atmosphere": "Slightly melancholic yet expansive, carries a sense of observation and steady progression",
+    "melody": "Primary melody carried by breathy, reverb-laden female vocals, often using simple, repeated phrases",
+    "harmony": "Layered synth pads and vocal overdubs creating a spacious and sometimes ambiguous harmonic landscape that avoids simple major/minor tonality",
+    "vocals_lyrics": "Ethereal female vocals, heavily processed with reverb and delay. Lyrics are poetic and abstract, touching on themes of perception, creation, and connection",
+    "structure_description": "Intro - Vocal Section 1 - Vocal Section 2 / Development - Build-up/Climax - Outro. Progressive structure building layers and intensity rather than adhering to a strict verse-chorus form",
+    "comparable_artists_songs": [
+      "Portishead",
+      "Massive Attack (for the trip-hop beat and atmosphere)",
+      "Cocteau Twins (ethereal vocals)",
+      "Boards of Canada (dreamy synth textures)"
+    ],
+    "sections": [
+      {
+        "section_number": 1,
+        "title": "Intro / Beat Entry (Rapper A, Verse 1)",
+        "time_frame": "0:00 - 0:46",
+        "description": "Starts with atmospheric, slightly grainy synth pads creating a spacious, dark mood. At around 0:09, a steady electronic beat (kick, clap/snare, hi-hat) enters, establishing the song's underlying pulse. A subtle bassline may also be present."
+      },
+      {
+        "section_number": 2,
+        "title": "First Vocal Theme / Growth (Rapper B, Verse 1)",
+        "time_frame": "0:46 - 1:30",
+        "description": "Ethereal female vocals enter with the main melodic idea (\"Here come the clouds...\"). The synth pads and steady beat continue, providing a foundation. The mood remains atmospheric and contemplative."
+      },
+      {
+        "section_number": 3,
+        "title": "Second Vocal Theme / Construction (Rapper A, Verse 2)",
+        "time_frame": "1:30 - 2:15",
+        "description": "The vocal melody continues and develops slightly (\"...no one ought to play for...\"). Synth layers might subtly evolve, adding texture. The overall dynamic level is consistent."
+      },
+      {
+        "section_number": 4,
+        "title": "Build-up / Urban Landscape (Rapper B, Verse 2)",
+        "time_frame": "2:15 - 3:00",
+        "description": "A sense of increasing intensity through added synth layers or vocal harmonies (\"...dedicated to all of you and me...\"). The music feels like it's moving forward or expanding."
+      },
+      {
+        "section_number": 5,
+        "title": "Climax / Abstract Transformation (Rapper A, Final Verse)",
+        "time_frame": "3:00 - 3:45",
+        "description": "Represents the dynamic peak of the song. Vocal layers and synth textures likely reach their fullest point (\"Tell me... dedicated...\"). While the beat remains steady, the overall sound swells."
+      },
+      {
+        "section_number": 6,
+        "title": "Outro / Deconstruction (Rapper B, Final Verse)",
+        "time_frame": "3:45 - 4:48",
+        "description": "The music begins to fade and deconstruct. Vocal phrases may echo and disappear. Elements like the main beat might drop out or simplify towards the end. Synths become more ambient, recalling the intro's atmosphere but slowly fading to silence."
+      }
+    ]
+  }
+]

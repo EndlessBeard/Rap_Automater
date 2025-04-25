@@ -1,0 +1,60 @@
+[
+  {
+    "title": "[TRACK_TITLE]",
+    "artist": "[ARTIST_NAME]",
+    "genre": "[PRIMARY_GENRE]",
+    "style": "[SPECIFIC_STYLE_OR_SUBGENRE]",
+    "tempo": "[TEMPO_DESCRIPTION_AND_BPM]",
+    "rhythm": "[RHYTHM_CHARACTERISTICS]",
+    "instruments": "[MAIN_INSTRUMENTS_AND_SOUNDS]",
+    "arrangement": "[DESCRIPTION_OF_ARRANGEMENT_APPROACH]",
+    "mood": "[PRIMARY_EMOTIONAL_QUALITIES]",
+    "atmosphere": "[ATMOSPHERE_AND_VIBE]",
+    "melody": "[MELODIC_CHARACTERISTICS]",
+    "harmony": "[HARMONIC_STRUCTURE_DESCRIPTION]",
+    "vocals_lyrics": "[VOCAL_ELEMENT_DESCRIPTION_OR_INSTRUMENTAL_NOTE]",
+    "structure_description": "[OVERALL_MUSICAL_STRUCTURE_DESCRIPTION]",
+    "comparable_artists_songs": [
+      "[COMPARABLE_ARTIST/SONG_1]",
+      "[COMPARABLE_ARTIST/SONG_2]"
+    ],
+    "sections": [
+      {
+        "section_number": 1,
+        "title": "[SECTION_TITLE] (Rapper A, Verse 1)",
+        "time_frame": "[START_TIME] – [END_TIME]",
+        "description": "[DETAILED_DESCRIPTION_OF_MUSICAL_ELEMENTS_IN_THIS_SECTION]"
+      },
+      {
+        "section_number": 2,
+        "title": "[SECTION_TITLE] (Rapper B, Verse 1)",
+        "time_frame": "[START_TIME] – [END_TIME]",
+        "description": "[DETAILED_DESCRIPTION_OF_MUSICAL_ELEMENTS_IN_THIS_SECTION]"
+      },
+      {
+        "section_number": 3,
+        "title": "[SECTION_TITLE] (Rapper A, Verse 2)",
+        "time_frame": "[START_TIME] – [END_TIME]",
+        "description": "[DETAILED_DESCRIPTION_OF_MUSICAL_ELEMENTS_IN_THIS_SECTION]"
+      },
+      {
+        "section_number": 4,
+        "title": "[SECTION_TITLE] (Rapper B, Verse 2)",
+        "time_frame": "[START_TIME] – [END_TIME]",
+        "description": "[DETAILED_DESCRIPTION_OF_MUSICAL_ELEMENTS_IN_THIS_SECTION]"
+      },
+      {
+        "section_number": 5,
+        "title": "[SECTION_TITLE] (Rapper A, Final Verse)",
+        "time_frame": "[START_TIME] – [END_TIME]",
+        "description": "[DETAILED_DESCRIPTION_OF_MUSICAL_ELEMENTS_IN_THIS_SECTION]"
+      },
+      {
+        "section_number": 6,
+        "title": "[SECTION_TITLE] (Rapper B, Final Verse)",
+        "time_frame": "[START_TIME] – [END_TIME]",
+        "description": "[DETAILED_DESCRIPTION_OF_MUSICAL_ELEMENTS_IN_THIS_SECTION]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "persona_type": "RAPPER",
+  "stage_name": "L.P. Prime",
+  "first_name": "Logan",
+  "last_name": "Paul",
+  "image_and_persona": {
+    "description": "Hypebeast brawler—limited-edition streetwear, diamond grills, sleeveless hoodies showing off boxing scars. Rocking his own energy drink like it's holy water. Unfiltered and untouchable, thrives in controversy. He's the influencer-turned-icon, the heel who became the headliner."
+  },
+  "musical_style": {
+    "description": "Flashy, defiant, and chronically online. Packed with catchphrases, clapbacks, and viral references. Confident and cocky, blending rap cadence with podcast pacing. Sounds like he's vlogging mid-verse."
+  },
+  "themes": [
+    "Clout & Reinvention",
+    "Fame as Currency",
+    "Critics as Content",
+    "Digital disruption",
+    "Constant evolution"
+  ],
+  "speech_characteristics": {
+    "delivery": "Punchline-heavy",
+    "structure": "Sardonic swagger",
+    "style": "Meme fluency",
+    "signature_phrases": [
+      "Disruption as doctrine",
+      "Bars chase moments",
+      "From Vine to ring"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "persona_type": "RAPPER",
+  "stage_name": "General Truth",
+  "first_name": "Smedley",
+  "last_name": "Butler",
+  "image_and_persona": {
+    "description": "A battle-hardened lyrical warlord, General Truth is the OG of anti-corporate rhymes. Rocking a faded military jacket, campaign ribbons, and scuffed boots, he spits like he's testifying before Congress — because he did. He's not here for fame or flash — he's the watchdog of the republic, exposing the system with the calm intensity of a man who's seen it all. His mic is a weapon, his bars are declassified."
+  },
+  "musical_style": {
+    "description": "Industrial Boom-Bap meets Revolutionary Spoken Word. Dark, militant drums layered with battlefield ambiance, sirens, and ominous horns. His beats sound like they were forged in a war room. Influences: Immortal Technique, Dead Prez, Public Enemy, and a little Rage Against the Machine."
+  },
+  "themes": [
+    "Anti-imperialism and war profiteering",
+    "Corruption in high places",
+    "Betrayal of soldiers by politicians",
+    "Military honor vs. political greed",
+    "Revolution through knowledge",
+    "\"I fought for this country — now I'm fighting for the truth\""
+  ],
+  "speech_characteristics": {
+    "delivery": "Direct, commanding tone with minimal flair",
+    "structure": "Precision wordplay, like a verbal field manual",
+    "style": "Uses historical references and hard stats in his rhymes",
+    "signature_phrases": [
+      "War is a racket — and I've got receipts",
+      "I served — now I speak",
+      "Decorated, not domesticated"
+    ]
+  }
+}

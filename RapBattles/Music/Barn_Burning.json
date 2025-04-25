@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Barnburning (Instrumental Analysis)",
+    "artist": "Gangstagrass",
+    "genre": "Instrumental fusion of bluegrass and hip-hop",
+    "style": "Gangstagrass's signature style—melding rapid-fire bluegrass string instrumentation with urban rhythmic sensibilities and dynamic arrangements.",
+    "tempo": "Up-tempo",
+    "rhythm": "Confident, driving rhythm. Traditional bluegrass rolls locked into a hip-hop-inspired boom-bap groove.",
+    "instruments": "Banjo (lead and rhythm), Fiddle (melodic lead and harmony), Dobro (color and fills), Acoustic Guitar (rhythmic backing), Upright Bass (foundational groove), Hip-hop Drum Kit / Percussive Elements (digital or live)",
+    "arrangement": "Layered, with banjo and fiddle often taking turns on melodic phrases while maintaining a cohesive instrumental narrative. Rhythmic elements underpin and elevate energy.",
+    "mood": "High-energy, bold, rootsy, cinematic",
+    "atmosphere": "Evokes images of movement and momentum—chase scenes, action montages, or spirited gatherings. Simultaneously playful and intense, modern and traditional.",
+    "melody": "Banjo and fiddle drive the melody, trading lead roles.",
+    "harmony": "Often built in thirds and sixths, providing a rich Appalachian flavor. Rooted in major and Mixolydian tonalities, with occasional bluesy turns.",
+    "vocals_lyrics": "Instrumental – no vocals or lyrics in this version.",
+    "structure_description": null,
+    "comparable_artists_songs": [
+      "Béla Fleck & The Flecktones",
+      "C2C – \"Down the Road\"",
+      "Yonder Mountain String Band",
+      "Apocalyptica (instrumentally speaking)"
+    ],
+    "sections": [
+      {
+        "section_number": 1,
+        "title": "Intro",
+        "time_frame": "0:00 – 0:24",
+        "description": "Solo banjo opens with a tight riff that sets the tonal and rhythmic foundation. Fiddle joins midway with harmony, thickening the sound. A taste of what's to come—playful but poised."
+      },
+      {
+        "section_number": 2,
+        "title": "Verse 1",
+        "time_frame": "0:24 – 0:48",
+        "description": "The full rhythm section enters: acoustic guitar, upright bass, and hip-hop-flavored drums. Banjo leads the melodic narrative, with fiddle offering flourishes and responses."
+      },
+      {
+        "section_number": 3,
+        "title": "Chorus 1",
+        "time_frame": "0:48 – 1:12",
+        "description": "Fiddle and banjo lock in unison, playing a bright, catchy lead line. Arrangement fills out; this is the hookiest, most anthemic section of the track."
+      },
+      {
+        "section_number": 4,
+        "title": "Verse 2",
+        "time_frame": "1:12 – 1:36",
+        "description": "Fiddle takes the spotlight, soaring with melodic phrasing. Banjo and guitar build subtle support lines while percussion maintains groove."
+      },
+      {
+        "section_number": 5,
+        "title": "Bridge",
+        "time_frame": "1:36 – 2:00",
+        "description": "A breakdown with space: percussive elements strip back. Instruments play call-and-response patterns; banjo and fiddle trade short phrases, pushing momentum forward."
+      },
+      {
+        "section_number": 6,
+        "title": "Final Chorus & Extended Outro",
+        "time_frame": "2:00 – 3:57",
+        "description": "Full ensemble returns at high intensity. Reprises the chorus melody, but with added ornamentation and layers. Track extends into an improvised outro—each instrument has a moment to shine before ending in a crisp, unified cadence."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "persona_type": "RAPPER",
+  "stage_name": "[STAGE_NAME]",
+  "first_name": "[FIRST_NAME]",
+  "last_name": "[LAST_NAME]",
+  "image_and_persona": {
+    "description": "[Detailed description of the rapper's appearance, demeanor, character traits, and overall vibe. Include clothing style, attitude, and what makes them unique.]"
+  },
+  "musical_style": {
+    "description": "[Describe the rapper's sound, influences, production style, and musical references. Include comparisons to known artists if helpful.]"
+  },
+  "themes": [
+    "[Main theme/topic the rapper covers]",
+    "[Second theme/topic]",
+    "[Third theme/topic]",
+    "[Fourth theme/topic]",
+    "[Fifth theme/topic]",
+    "[Sixth theme/topic]"
+  ],
+  "speech_characteristics": {
+    "delivery": "[How the rapper delivers their lines - tone, energy, speed, etc.]",
+    "structure": "[How their verses are typically structured]",
+    "style": "[Notable stylistic elements of their rapping]",
+    "signature_phrases": [
+      "[Catchphrase or signature line 1]",
+      "[Catchphrase or signature line 2]",
+      "[Catchphrase or signature line 3]"
+    ]
+  }
+}

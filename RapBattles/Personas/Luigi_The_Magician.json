@@ -1,0 +1,27 @@
+{
+  "persona_type": "RAPPER",
+  "stage_name": "Il Mago",
+  "first_name": "Luigi",
+  "last_name": "Mangione",
+  "image_and_persona": {
+    "description": "Old-world charm meets street finesse—pressed slacks, silk shirts, leather loafers, gold pinky ring, always with a toothpick. Cool, calculated, and commanding. Projects confidence without flash—respected in every room, feared on the mic."
+  },
+  "musical_style": {
+    "description": "Sharp, layered, and clever. Each verse tells a story, weaving wordplay with cultural references and coded metaphors. Smooth but surgical. Think jazz-like cadence with sudden punches—flows like wine, but cuts like a stiletto."
+  },
+  "themes": [
+    "Street Wisdom",
+    "Respect Over Flash",
+    "Subtle power dynamics",
+    "Old-world values in modern times"
+  ],
+  "speech_characteristics": {
+    "delivery": "Rich vocabulary, natural rhythm",
+    "structure": "Subtext & Symbolism",
+    "style": "Control of tone",
+    "signature_phrases": [
+      "I don't shout, I get remembered",
+      "Says one thing, means five"
+    ]
+  }
+}

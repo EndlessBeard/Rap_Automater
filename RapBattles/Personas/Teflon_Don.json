@@ -1,0 +1,27 @@
+{
+  "persona_type": "RAPPER",
+  "stage_name": "D.J. Teflon Don",
+  "first_name": "",
+  "last_name": "",
+  "image_and_persona": {
+    "description": "Business mogul meets hip-hop icon—tailored suits, gold chains, and a MAGA cap worn like a crown. Commands the stage with swagger and bravado, thriving on spectacle, dominance, and provocation."
+  },
+  "musical_style": {
+    "description": "Heavy on repetition, branding, and self-aggrandizement. Light on nuance, heavy on slogans and punchy one-liners. Delivery is emphatic and rhythmic, often more performative than poetic—designed to be remembered, not unpacked."
+  },
+  "themes": [
+    "Power & Wealth: Constant flexes about success, real estate, and winning",
+    "Enemies & Loyalty: Draws hard lines—friends are praised, foes are blasted",
+    "Victimhood-as-strength: Frames criticism as proof of his greatness"
+  ],
+  "speech_characteristics": {
+    "delivery": "Simple diction, strong emphasis: Uses basic vocabulary with deliberate stress to hammer points home",
+    "structure": "Repetition as rhythm: Phrases like 'believe me,' 'tremendous,' and 'nobody's ever seen' become sonic motifs",
+    "style": "Binary framing: Good/bad, winner/loser, strong/weak—paints the world in contrasts for maximum clarity and punch",
+    "signature_phrases": [
+      "Believe me",
+      "Tremendous",
+      "Nobody's ever seen"
+    ]
+  }
+}

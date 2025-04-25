@@ -1,0 +1,30 @@
+{
+  "persona_type": "RAPPER",
+  "stage_name": "Big Sole Ron",
+  "first_name": "Ron",
+  "last_name": "DeSantis",
+  "image_and_persona": {
+    "description": "A hyper-polished, media-trained mic controller who walks tall (with a little help from custom lifts). Big Sole Ron rolls up in Cuban-heeled Timbs and a tailored fit — part presidential hopeful, part hypebeast. He's got that \"small-town sheriff turned rap candidate\" energy, with an iron jawline and a no-nonsense presence. Serious on the surface, but the bars are full of coded flexes and spicy dog whistles."
+  },
+  "musical_style": {
+    "description": "Patriot Trap with elements of Southern Drill — hard-hitting beats with dramatic orchestral samples (think military horns, choirs, and banjo flourishes). It's part campaign rally, part diss tape. Influences include Tom MacDonald, early Jeezy, and campaign trail Eminem (but make it Florida)."
+  },
+  "themes": [
+    "Law and order vibes",
+    "Cultural battles in designer boots",
+    "Power moves, patriotism, and press conference mic drops",
+    "The illusion of control",
+    "Flexing while denying you flex",
+    "Protecting \"the brand\""
+  ],
+  "speech_characteristics": {
+    "delivery": "Aggressively clear enunciation, like he's debating the beat",
+    "structure": "Occasional dramatic pauses mid-verse for audience effect",
+    "style": "Subtle jabs disguised as straight talk",
+    "signature_phrases": [
+      "Laced up for liberty",
+      "You can't cancel these kicks",
+      "Every inch earned"
+    ]
+  }
+}

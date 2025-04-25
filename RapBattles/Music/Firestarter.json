@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Firestarter (Instrumental)",
+    "artist": "The Prodigy",
+    "genre": "Electronic Dance Music (EDM)",
+    "style": "Big Beat",
+    "tempo": "Around 138 BPM",
+    "rhythm": "Driving, syncopated rhythms",
+    "instruments": "Synthesizers, distorted guitar riffs, sampled drum loops",
+    "arrangement": "Layered, aggressive sound, builds intensity through repetitive motifs and dynamic shifts",
+    "mood": "Energetic, rebellious",
+    "atmosphere": "Urgency, raw power",
+    "melody": "Minimal, focusing on rhythmic and textural components",
+    "harmony": "Straightforward, supporting the track's driving force",
+    "vocals_lyrics": "Instrumental version, omits original vocals",
+    "structure_description": "Traditional electronic dance music structure with intro, build-ups, breakdowns, and drops, maintaining high energy throughout.",
+    "comparable_artists_songs": [
+      "\"Block Rockin' Beats\" by The Chemical Brothers",
+      "\"Smack My Bitch Up\" by The Prodigy"
+    ],
+    "sections": [
+      {
+        "section_number": 1,
+        "title": "Introduction (Rapper A, Verse 1)",
+        "time_frame": "0:00 – 0:28",
+        "description": "Begins with a filtered drum pattern introduced via a low-pass filter, gradually building tension. A drone bass plays subtly in the background, providing a foundation for the track. The main guitar riff, sampled from The Breeders' \"S.O.S.,\" is introduced, processed through a wah-wah pedal and centered with a slight delay."
+      },
+      {
+        "section_number": 2,
+        "title": "Build-Up (Rapper B, Verse 1)",
+        "time_frame": "0:28 – 0:56",
+        "description": "The rhythm section intensifies with the introduction of a prominent kick drum on every beat, characterized by pronounced mid and high frequencies. Phased noise elements, resembling reversed crashes, are added to enhance the build-up. A big beat rhythm, comprising snare hits and 16th-note hi-hats, drives the energy forward."
+      },
+      {
+        "section_number": 3,
+        "title": "Main Groove (Rapper A, Verse 2)",
+        "time_frame": "0:56 – 1:24",
+        "description": "All rhythmic and melodic components from the previous section continue, maintaining the track's momentum. Additional elements, such as reversed synths on offbeats and vocal samples, enrich the texture. A reversed, slow-attack synth resembling a tire screech pans to the left, adding dynamic interest."
+      },
+      {
+        "section_number": 4,
+        "title": "Instrumental Break (Rapper B, Verse 2)",
+        "time_frame": "1:24 – 1:52",
+        "description": "The track transitions into an instrumental section, stripping back vocals to spotlight the synths. A gated pulse synth is gradually introduced, filtered in with a high-pass effect to build anticipation."
+      },
+      {
+        "section_number": 5,
+        "title": "Middle Section (Rapper A, Final Verse)",
+        "time_frame": "1:52 – 2:20",
+        "description": "The energy shifts as harsher tones are reduced, introducing softer synth pads for a contrasting atmosphere. A phased-out acid lead emerges, accompanied by drum patterns that phase in and out, creating a dynamic soundscape. Automation techniques, such as cutoff modulation mapped to a sine wave LFO, are employed to add movement."
+      },
+      {
+        "section_number": 6,
+        "title": "Outro (Rapper B, Final Verse)",
+        "time_frame": "2:20 – 2:48",
+        "description": "The track reintroduces distorted stab synths and reversed screeching synths, building tension toward the conclusion. An 8-bar instrumental segment leads into a fade-out, gradually reducing dynamics to close the piece."
+      }
+    ]
+  }
+]
