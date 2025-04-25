@@ -9,7 +9,7 @@ The Rap Battle Automater is a tool designed to generate and simulate rap battles
 - **Customizable Content**: Allows users to set a text description of Music to use. 
 
 ## Getting Started
-1. Clone this repository
+1. Clone this repository asdf
 2. Install required dependencies
 3. Run the automater using the provided scripts
 4. Follow prompts to generate your first battle
